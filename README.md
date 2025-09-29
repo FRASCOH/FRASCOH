@@ -1,6 +1,52 @@
-# 💫 About Me:
-🏗️ I’m currently working on<br><br>IT Project Management and cybersecurity (MFA, DNS Security, Endpoint Protection, Backup & Recovery).<br><br>University teaching in Computer Science.<br><br>Research projects in Secure Multiparty Computation and Cyber Threat Intelligence.<br><br>🤝 I’m looking to collaborate on<br><br>Cybersecurity and cloud security projects.<br><br>Web/mobile application development and secure ERP/CMS systems.<br><br>Educational and tech dissemination initiatives.<br><br>🫱 I’m looking for help with<br><br>Advanced SIEM optimization and threat detection.<br><br>Open-source projects related to cybersecurity.<br><br>🌱 I’m currently learning<br><br>Advanced privacy-preserving computation techniques.<br><br>Cloud security & AWS.<br><br>Security standards and frameworks (ISO 27001, ISO 31000, GDPR).<br><br>💬 Ask me about<br><br>Cybersecurity, Cyber Threat Intelligence, and Secure Multiparty Computation.<br><br>Software development (PHP, JS, C, C++, C#, Java, Python, Swift).<br><br>SEO, digital marketing, and IT management.<br><br>⚡ Fun fact<br>I developed a VR app for virtual school tours and an iOS app integrating ChatGPT to recommend personalized events.
-
+# 👋 About Me:
+🎓 MSc in Cybersecurity (University of Milan) + BSc in Computer Science (University of Parma)
+<br>
+💼 IT Project Manager & University Lecturer in Computer Science
+<br>
+🔐 Strong background in Cybersecurity, Cloud Security, and Secure Software Development
+<br>
+🧪 Research in Secure Multiparty Computation & Cyber Threat Intelligence
+<br><br>
+🏗️ What I’m working on
+<br>
+IT Project Management & Cybersecurity (MFA, DNS Security, Endpoint Protection, Backup & Recovery)
+<br>
+Teaching Computer Science at university level
+<br>
+Research projects in Secure Multiparty Computation and Cyber Threat Intelligence
+<br><br>
+🤝 Collaboration Interests
+<br>
+Cybersecurity & Cloud Security projects
+<br>
+Web/Mobile development & secure ERP/CMS systems
+<br>
+Tech education & dissemination initiatives
+<br><br>
+🌱 Currently Learning
+<br>
+Advanced privacy-preserving computation
+<br>
+Cloud Security & AWS
+<br>
+Security standards & frameworks (ISO 27001, ISO 31000, GDPR)
+<br><br>
+💬 Ask Me About
+<br>
+Cybersecurity, CTI, Secure Multiparty Computation
+<br>
+Software Development: PHP, JS, C, C++, C#, Java, Python, Swift
+<br>
+SEO, Digital Marketing & IT Management
+<br><br>
+⚡ Fun Fact
+<br>
+I built:
+<br>
+🎮 A VR app for virtual school tours
+<br>
+📱 An iOS app integrating ChatGPT to recommend personalized events
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frascoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-frasconi) 
