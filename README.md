@@ -1,7 +1,7 @@
 # 👋 About Me:
 🎓 MSc in Cybersecurity (University of Milan) + BSc in Computer Science (University of Parma)
 <br>
-💼 IT Project Manager & University Lecturer in Computer Science
+💼 IT Cybersecurity Engineer | PMO & Technolgy Security & University Lecturer in Computer Science
 <br>
 🔐 Strong background in Cybersecurity, Cloud Security, and Secure Software Development
 <br>
@@ -9,7 +9,7 @@
 <br><br>
 🏗️ What I’m working on
 <br>
-IT Project Management & Cybersecurity (MFA, DNS Security, Endpoint Protection, Backup & Recovery)
+PMO & Technolgy Security & IT Cybersecurity Engineer (NIS2, GDPR, Golden Power, MFA, DNS Security, Endpoint Protection, Backup & Recovery)
 <br>
 Teaching Computer Science at university level
 <br>
@@ -29,7 +29,7 @@ Advanced privacy-preserving computation
 <br>
 Cloud Security & AWS
 <br>
-Security standards & frameworks (ISO 27001, ISO 31000, GDPR)
+Security standards & frameworks (NIS2, ISO, GDPR)
 <br><br>
 💬 Ask Me About
 <br>
